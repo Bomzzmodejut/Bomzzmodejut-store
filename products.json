@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Paket Hemat A",
+    "price": 10000,
+    "description": "Paket PATNER Basic Bomz",
+    "category": "Paket"
+  },
+  {
+    "id": 2,
+    "name": "Paket Premium B",
+    "price": 25000,
+    "description": "Paket PATNER Vip Bomz",
+    "category": "Paket"
+  },
+  {
+    "id": 3,
+    "name": "Paket Exclusive C",
+    "price": 50000,
+    "description": "Paket Patner Pribadi Bomz",
+    "category": "Paket"
+  },
+  {
+    "id": 4,
+    "name": "All title Fang seven",
+    "price": 10000-15000,
+    "description": "Paket Title Script",
+    "category": "Paket"
+  },
+  {
+    "id": 5,
+    "name": "All Title Scrip PRAIM CHAY",
+    "price": 10000-50000,
+    "description": "Produk spesial dengan kualitas premium",
+    "category": "Produk"
+  },
+  {
+    "id": 6,
+    "name": "Alight Motion Prem 1 tahun",
+    "price": 5000,
+    "description": "Produk limited edition yang langka",
+    "category": "Produk"
+  },
+  {
+    "id": 7,
+    "name": "Script V1 PRAIM CHAY",
+    "price": 5000,
+    "description": "Produk digital ",
+    "category": "Digital"
+  },
+  {
+    "id": 8,
+    "name": "SC FANG SEVEN V NEW",
+    "price": 10000,
+    "description": "SC FANG SEVEN VIA TELE",
+    "category": "TELE"
+  }
+]
