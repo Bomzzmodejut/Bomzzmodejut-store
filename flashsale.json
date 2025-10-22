@@ -7,20 +7,10 @@
     "status": "",
     "startTime": "2025-01-01T00:00:00",
     "endTime": "2025-12-30T23:59:59",
-    "image": "https://bio.resellergaming.my.id/profile.jpg"
+    "image": "https://files.catbox.moe/f33xw0.jpg"
   },
   {
     "id": 2,
-    "name": "Script Limited Edition",
-    "price": 25000,
-    "description": "sale",
-    "status": "flash",
-    "startTime": "2025-07-01T10:00:00",
-    "endTime": "2025-07-01T18:00:00",
-    "image": "https://bio.resellergaming.my.id/profile.jpg"
-  },
-  {
-    "id": 3,
     "name": "Fang Seven V3",
     "price": 10000,
     "description": "Segera hadir minggu depan",
