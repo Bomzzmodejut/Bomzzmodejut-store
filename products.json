@@ -54,5 +54,12 @@
     "price": 10000,
     "description": "SC FANG SEVEN VIA TELE",
     "category": "TELE"
+  },
+  {
+    "id": 9,
+    "name": "script Priam Chay",
+    "price": 10000,
+    "description": "Script Bug WA Ganas",
+    "category": "Tele"
   }
 ]
