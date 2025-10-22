@@ -23,14 +23,14 @@
   {
     "id": 4,
     "name": "All title Fang seven",
-    "price": 10000-15000,
+    "price": 150000,
     "description": "Paket Title Script",
     "category": "Paket"
   },
   {
     "id": 5,
     "name": "All Title Scrip PRAIM CHAY",
-    "price": 10000-50000,
+    "price": 50000,
     "description": "Produk spesial dengan kualitas premium",
     "category": "Produk"
   },
